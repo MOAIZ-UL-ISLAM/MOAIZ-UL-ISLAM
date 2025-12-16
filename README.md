@@ -2,9 +2,9 @@
 
 ### Software Engineer. Debug debug debug.....🐛
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moaiz0404&label=Profile views&color=0e75b6&style=flat" alt="moaiz0404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MOAIZ-UL-ISLAM&label=Profile views&color=0e75b6&style=flat" alt="moaiz0404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaiz0404" alt="moaiz0404" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOAIZ-UL-ISLAM" alt="moaiz0404" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/moaiz0404" target="blank"><img src="https://img.shields.io/twitter/follow/moaiz0404?logo=twitter&style=for-the-badge" alt="moaiz0404" /></a> </p>
 
